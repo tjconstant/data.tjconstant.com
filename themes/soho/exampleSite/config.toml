@@ -1,7 +1,6 @@
-theme = "soho"
-baseurl = "/"
+baseurl = "https://example.com/"
 languageCode = "en"
-title = "Tom Constant"
+title = "Soho Theme"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 summarylength = 10
@@ -10,25 +9,25 @@ enableEmoji = true
 [params]
 description = ""
 # gravatar = "soho@example.com"
-profilePicture = "images/profile.svg"
-copyright = "Tom Constant"
+profilePicture = "images/profile.png"
+copyright = "Author Name"
 license = "CC BY-SA 4.0"
 licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
 
   [[params.socialIcons]]
   icon = "fa-linkedin"
   title = "Linkedin"
-  url = "http://www.linkedin.com/in/tomconstant"
+  url = "#"
 
   [[params.socialIcons]]
   icon = "fa-github"
   title = "GitHub"
-  url = "http://github.com/tjconstant"
+  url = "#"
 
   [[params.socialIcons]]
   icon = "fa-twitter"
   title = "Twitter"
-  url = "http://twitter.com/tomconstant"
+  url = "#"
 
 [menu]
 
